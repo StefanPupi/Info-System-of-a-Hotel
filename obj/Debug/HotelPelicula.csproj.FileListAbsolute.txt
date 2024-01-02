@@ -1,0 +1,12 @@
+C:\Users\38164\source\repos\HotelPelicula\bin\Debug\HotelPelicula.exe.config
+C:\Users\38164\source\repos\HotelPelicula\bin\Debug\HotelPelicula.exe
+C:\Users\38164\source\repos\HotelPelicula\bin\Debug\HotelPelicula.pdb
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.csproj.AssemblyReference.cache
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.Form1.resources
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.Properties.Resources.resources
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.csproj.GenerateResource.cache
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.csproj.CoreCompileInputs.cache
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.exe
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.pdb
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.AdminForma.resources
+C:\Users\38164\source\repos\HotelPelicula\obj\Debug\HotelPelicula.RecepcionerForma.resources
